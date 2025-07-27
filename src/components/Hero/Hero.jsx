@@ -11,7 +11,7 @@ const Hero = () => {
         Nigeria
       </h1>
       <p>
-        I am a passionate front-end web developer from Nasarawa State, Nigeria
+        I am an enthusiasm Front-End and Wordpress Web Developer from Nasarawa State, Nigeria
         with 3 years of expertise in web development.
       </p>
       <div className="hero-action">
