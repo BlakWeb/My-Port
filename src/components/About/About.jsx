@@ -22,7 +22,7 @@ const About = () => {
             </p>
             <p>
               A goal-oriented Frontend Developer with knowledge of HTML, CSS,
-              JavaScript, React, Nextjs, Tailwind, Typescript amd Wordpress seeking to use
+              JavaScript, React, Nextjs, Tailwind, Typescript and Wordpress seeking to use
               technical proficiency and creativity to develop engaging user
               experiences and advance in a professional career.
             </p>
