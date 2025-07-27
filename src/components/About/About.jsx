@@ -17,12 +17,12 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              I am a skilled front end developer with three years of experience
-              in creating user-friendly, responsive websites.
+              I am a skilled Front-End Developer and Wordpress with 3 of experience
+              in creating user-friendly, responsive websites and top-notch e-commerce websites.
             </p>
             <p>
               A goal-oriented Frontend Developer with knowledge of HTML, CSS,
-              JavaScript, React, Nextjs, Tailwind and Typescript seeking to use
+              JavaScript, React, Nextjs, Tailwind, Typescript amd Wordpress seeking to use
               technical proficiency and creativity to develop engaging user
               experiences and advance in a professional career.
             </p>
@@ -38,11 +38,11 @@ const About = () => {
             </div>
             <div className="about-skill">
               <p>React JS</p>
-              <hr style={{ width: "55%" }} />
+              <hr style={{ width: "70%" }} />
             </div>
             <div className="about-skill">
               <p>Next JS</p>
-              <hr style={{ width: "45%" }} />
+              <hr style={{ width: "55%" }} />
             </div>
             <div className="about-skill">
               <p>Typescript</p>
@@ -51,6 +51,10 @@ const About = () => {
             <div className="about-skill">
               <p>Tailwind</p>
               <hr style={{ width: "53%" }} />
+            </div>
+            <div className="about-skill">
+              <p>Wordpress</p>
+              <hr style={{ width: "55%" }} />
             </div>
           </div>
         </div>
